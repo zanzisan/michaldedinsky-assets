@@ -1,0 +1,25 @@
+.fapi-order-form{--background-color:#FFFFFF !important;--font-family:Inter,system-ui,sans-serif !important;--font-size:15px !important;--color:#1F1B14 !important;--input-color:#B8451E !important;--sale-color:#B8451E !important;--container-header-background-color:#F7F2E7 !important;--container-header-color:#1F1B14 !important;--container-header-font-size:12px !important;--container-header-font-family:Inter,system-ui,sans-serif !important;--container-header-border-radius:0px !important;--submit-button-background-color:#B8451E !important;--submit-button-text-color:#FFFFFF !important;--submit-button-border-radius:10px !important;--submit-button-font-size:17px !important;--submit-button-font-family:Inter,system-ui,sans-serif !important;max-width:540px !important;margin:0 auto !important;background:#FFFFFF;border:1px solid #E3DCCB;border-radius:16px;overflow:hidden;box-shadow:0 18px 40px rgba(31,27,20,.08);font-family:Inter,system-ui,sans-serif}
+.fapi-order-form .fapi-container-header{font-weight:700 !important;letter-spacing:1.5px;text-transform:uppercase;border-top:1px solid #E3DCCB;border-bottom:1px solid #E3DCCB}
+.fapi-order-form .fapi-form-basic-block:first-of-type .fapi-container-header,.fapi-order-form .fapi-form-items .fapi-container-header{border-top:0}
+.fapi-order-form .f-text-gray-700,.fapi-order-form .f-text-gray-600{color:#1F1B14 !important}
+.fapi-order-form .f-text-gray-400{color:#6B6455 !important}
+.fapi-order-form .f-form-input{border-color:#E3DCCB !important;border-radius:10px !important;background-color:#FFFFFF !important;color:#1F1B14 !important;font-family:Inter,system-ui,sans-serif}
+.fapi-order-form .f-form-input:not(.f-absolute){min-height:44px;padding-top:10px !important;padding-bottom:10px !important}
+.fapi-order-form .f-form-input:focus{border-color:#1F1B14 !important;box-shadow:0 0 0 3px rgba(184,69,30,.18) !important;outline:none}
+.fapi-order-form .f-form-checkbox,.fapi-order-form .f-form-radio{border-color:#9A927F !important}
+.fapi-order-form .fapi-form-item{font-weight:600}
+.fapi-order-form .f-line-through{color:#6B6455 !important;text-decoration-color:#B8451E}
+.fapi-order-form .fapi-form-discounted-price{font-weight:700 !important}
+.fapi-order-form .fapi-form-payment-method{border:1px solid #E3DCCB !important;border-radius:12px !important;background:#FFFFFF !important;box-shadow:none !important}
+.fapi-order-form .fapi-form-payment-method:hover{border-color:#1F1B14 !important}
+.fapi-order-form .fapi-form-payment-method.payment-method-selected{border-color:#B8451E !important;box-shadow:0 0 0 1px #B8451E,0 8px 18px rgba(184,69,30,.12) !important}
+.fapi-order-form .fapi-form-prices-total-discount-value{color:#2E7D4F !important;font-weight:700}
+.fapi-order-form .fapi-form-result .fapi-form-prices-repayment-with-vat{border-top:2px solid #1F1B14;padding-top:10px;margin-top:6px}
+.fapi-order-form .fapi-form-result .fapi-form-prices-repayment-with-vat-value{color:#B8451E !important;font-size:22px !important;font-weight:700 !important}
+.fapi-order-form .fapi-form-result .fapi-form-prices-repayment-with-vat-label{font-weight:600}
+.fapi-order-form a,.fapi-order-form .f-text-blue-500{color:#B8451E !important;text-decoration:underline;text-underline-offset:3px}
+.fapi-order-form .fapi-submit-button{width:100%;min-height:54px;font-weight:700 !important;line-height:1.2 !important;transition:background-color .15s !important}
+.fapi-order-form .fapi-submit-button:hover{background-color:#9E3A18 !important;opacity:1 !important}
+.fapi-order-form .fapi-submit-button:focus-visible{outline:2px solid #1F1B14 !important;outline-offset:3px !important}
+.fapi-order-form .fapi-float-price-container{background:#FFFFFF !important;border:1px solid #E3DCCB !important;border-radius:12px !important;color:#1F1B14 !important;box-shadow:0 10px 24px rgba(31,27,20,.16) !important;font-family:Inter,system-ui,sans-serif}
+.fapi-order-form .fapi-float-price-container .fapi-form-prices-repayment-with-vat-value{color:#B8451E !important;font-weight:700}
